@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a4eiq0rd61kj8f2b?svg=true)](https://ci.appveyor.com/project/Pankrashin-iqa14/aqa1-2-ci)
